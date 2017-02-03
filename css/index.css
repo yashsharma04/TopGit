@@ -1,0 +1,49 @@
+header{
+	width: 100% ;
+	
+	float: left ;
+	display: inline-flex !important;
+
+}
+.img{
+	float: left ;
+}
+.head{
+	float: left; 
+	color: green ;
+	margin-top: 10px;
+	font-size: 24px;
+}
+.subhead{
+	color: green ;
+	margin-top: 17px;
+}
+.content_left {
+	width: 70% ;
+	float: left ;
+	margin-left: 20px;
+	border:1px solid;
+	padding: 5px ;
+	margin-top: 5px ;
+}
+.content_right {
+	width: 28% ;
+	float: left ;
+	margin-top: 5px;
+	margin-left: 20px ;
+	margin-right: 20px ;
+	border: solid 2px ;
+	padding-left: 10px;
+	padding-right: 10px ; 
+}
+#search {
+	margin-top: 10px ;
+	margin-bottom: 10px ;
+}
+.content{
+	width: 100% ;
+	display: inline-flex;
+}
+.stars {
+	margin-left: 40% ;
+}
